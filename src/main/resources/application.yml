@@ -1,4 +1,11 @@
 spring:
   datasource:
-    driver-class-name: org.postgresql.Driver
-    embedded-database-connection: none
+    hikari:
+      maximum-pool-size: 4
+    url: ENC(Wkt/yeucGfg2R/xos/RBGhmt+rqQgnwNkc7Quainm/AHkZutbVZrcAXeCEDNWare6GERWoT9I+5zSO7UuzZVF4WbhFPJAk7QWJnr6a0jSZuC7g0sB+Mp3iJ5Gb30UkEv)
+    username: ENC(HMDWgoz+jCRkBvCfIhOJkg==)
+    password: ENC(CSxGjOCr4lVqRrO1+e6mmrlvnuwq/J9a)
+
+jasypt:
+  encryptor:
+    bean: jasyptStringEncryptor
