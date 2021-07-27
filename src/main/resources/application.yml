@@ -2,9 +2,9 @@ spring:
   datasource:
     hikari:
       maximum-pool-size: 4
-    url: ENC(Wkt/yeucGfg2R/xos/RBGhmt+rqQgnwNkc7Quainm/AHkZutbVZrcAXeCEDNWare6GERWoT9I+5zSO7UuzZVF4WbhFPJAk7QWJnr6a0jSZuC7g0sB+Mp3iJ5Gb30UkEv)
-    username: ENC(HMDWgoz+jCRkBvCfIhOJkg==)
-    password: ENC(CSxGjOCr4lVqRrO1+e6mmrlvnuwq/J9a)
+    url: ENC(uhhRtpbqmYlaQj+5+7MEvZ9Qgv+v68dNESPpc/FBvUjICpgaHNRseVaCp+nCWdvxJ3g5KVTy3cxupMAI178IY7C9WGjgq9svchPJbh8aDzh0+4dyxlLomNlwGovecf37)
+    username: ENC(gbBHw8hlQ7p1hjGhsVzLpQleoLHsdzom)
+    password: ENC(o3Lp+SQGWUk5eOtk6WT0h4MGxVQuGQIH)
 
 jasypt:
   encryptor:
