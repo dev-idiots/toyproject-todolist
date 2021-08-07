@@ -1,4 +1,4 @@
-package com.springboot.toyproject.todolist.config;
+package com.springboot.toyproject.todolist.global.config;
 
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.jasypt.encryption.StringEncryptor;
