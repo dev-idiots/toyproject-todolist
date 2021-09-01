@@ -5,6 +5,10 @@ spring:
     url: ENC(bkVgl8Hsax1ScFCiAbCti64ljCG1+zvXH8gZXMaU0UlIQWkfdNlifpFMdQZdDO2prl/g5+lx7yVC9Ies7bgiV/Nquli1eqOoh3hAA5sxtNm7hhnRT+wftG71bSPfFeCs)
     username: ENC(igmd9+NcX3NALm/RVx26XA==)
     password: ENC(PxL7Geft635p8Cyuvsh5Pkmsd6GZKIUz)
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
 
 jasypt:
   encryptor:
